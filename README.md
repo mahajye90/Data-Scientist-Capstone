@@ -47,4 +47,4 @@ Predicting who more likly to completed a offer based on demographics and offer t
 
 # Results
 
-Results and discussion can be found [here] (https://majye.medium.com/business-understanding-fa6feaaac147)
+Results and discussion can be found [here](https://majye.medium.com/business-understanding-fa6feaaac147)
